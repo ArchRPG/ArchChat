@@ -1,0 +1,9 @@
+name: ArchChat
+version: 1#Beta
+main: ArchChat\Main
+api: 2.0.0
+load: POSTWORLD
+description: Now Chat At Player Head.Like Bubble HeHe.
+author: GamerXzavier
+
+
